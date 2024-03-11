@@ -1,0 +1,30 @@
+{
+  "name": "complimentary-color",
+  "version": "1.0.0",
+  "description": "Get the complementary color to any given color.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnshSinghSonkhia/complimentary-color.git"
+  },
+  "keywords": [
+    "complimentary",
+    "complimentary-color",
+    "color",
+    "color-convert",
+    "convert-color",
+    "color-conversion"
+  ],
+  "author": "Ansh Singh Sonkhia",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AnshSinghSonkhia/complimentary-color/issues"
+  },
+  "homepage": "https://github.com/AnshSinghSonkhia/complimentary-color#readme",
+  "dependencies": {
+    "random-math": "^1.0.5"
+  }
+}

@@ -122,11 +122,11 @@ const compliColor = {
 
 module.exports = compliColor;
 
-// console.log(compliColor.process("rgb(113,256,228)"));
-// // returns - rgb(256,113,141)
+//console.log(compliColor.process("rgb(113,256,228)"));
+// returns - rgb(256,113,141)
 
-// console.log(compliColor.process("hsl(120,50%,50%)"));
-// // returns - hsl(300,50.00%,50.00%)
+//console.log(compliColor.process("hsl(120,50%,50%)"));
+// returns - hsl(300,50.00%,50.00%)
 
-// console.log(compliColor.process("#ff00ff"));
-// // returns - #00ff0
+//console.log(compliColor.process("#ff00ff"));
+// returns - #00ff0
